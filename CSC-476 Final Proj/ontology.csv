@@ -1,0 +1,23 @@
+display_color,description,class_name,output_value
+#000000,uknown - unlabeled data,void,0
+#6c4014,ground terrain - natural earth or soil,dirt,1
+#006600,ground terrain - vegetation ground cover as would be seen on a lawn or in a pasture,grass,3
+#00ff00,"object - a large plant with a trunk, branches, leaves that is stands vertically upright",tree,4
+#009999,"object - long, often cylindrical piece of wood, metal, etc.",pole,5
+#0080ff,water - can be deep or shallow,water,6
+#0000ff,region in the upper air including clouds,sky,7
+#ffff00,object - something with wheels and a motor that can be used for transport,vehicle,8
+#ff007f,"object - any other object that is not specifically defined in the ontology, e.g., box, crate, can, barrel, etc.",object,9
+#404040,"ground terrain - any paved traversable roadway, darker than concrete",asphalt,10
+#ff0000,object - any static structure that could possibly have a door or window or a wall that is connected to a larger building structure,building,12
+#660000,object - tree trunk or large piece of wood that usually lies horizontally on the ground,log,15
+#cc99ff,object - person,person,17
+#6600cc,object - fence,fence,18
+#ff99cc,object - vegetation,bush,19
+#aaaaaa,"ground terrain - any paved traversable roadway, lighter than asphalt",concrete,23
+#2979FF,object - typically a concrete obstacle that prevents movement or access,barrier,27
+#651FFF,a naturally inclined area of terrain,uphill,29
+#899509,a naturally declined area of terrain,downhill,30
+#86ffef,ground terrain - a shallow standing body of water,puddle,31
+#634222,ground terrain - natural earth or soil mixed with water,mud,33
+#6e168a,object - loose collection of irregular shaped rocks,rubble,34
